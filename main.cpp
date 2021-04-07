@@ -11,7 +11,10 @@ int main(){
     b1.post(3,3,ariel::Direction::Vertical,"PPOP");
     cout<<endl<<b1.read(5,0,ariel::Direction::Horizontal,4)<<endl;
     b1.post(2,0,ariel::Direction::Horizontal,"hiEveryONE");
+    cout<< endl;
     b1.show();
+
+    
 
 
 
